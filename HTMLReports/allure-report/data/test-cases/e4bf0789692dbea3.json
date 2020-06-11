@@ -1,0 +1,56 @@
+{
+  "uid" : "e4bf0789692dbea3",
+  "name" : "test_validate_registration[data1]",
+  "fullName" : "TestCases.test_TC_003_StaticDataDriven#test_validate_registration",
+  "historyId" : "db0be8b3f97038b3f26170216eaff2c9",
+  "time" : {
+    "start" : 1591827741405,
+    "stop" : 1591827753634,
+    "duration" : 12229
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC_003_StaticDataDriven"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-EIRTQMB4"
+  }, {
+    "name" : "thread",
+    "value" : "13252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_TC_003_StaticDataDriven"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "['uname2', 'pass2']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4bf0789692dbea3.json",
+  "parameterValues" : [ "['uname2', 'pass2']" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)",
+      "children" : [ {
+        "name" : "test_validate_registration[data0]",
+        "uid" : "8a563197b8e114a2",
+        "parentUid" : "7ee0ef103944b9fe3598b427bfdf7b6e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591827770549,
+          "stop" : 1591827859936,
+          "duration" : 89387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['uname1', 'pass1']" ]
+      } ],
+      "uid" : "7ee0ef103944b9fe3598b427bfdf7b6e"
+    }, {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=83.0.4103.97)",
+      "children" : [ {
+        "name" : "test_validate_registration[data1]",
+        "uid" : "f8a6fe2bcc99fb18",
+        "parentUid" : "8c3a048d6e246e7cf68cb0d725fa96cf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591827865170,
+          "stop" : 1591827884909,
+          "duration" : 19739
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['uname2', 'pass2']" ]
+      }, {
+        "name" : "test_validate_registration[data2]",
+        "uid" : "84bd8faa3af5edd8",
+        "parentUid" : "8c3a048d6e246e7cf68cb0d725fa96cf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591827885133,
+          "stop" : 1591827897947,
+          "duration" : 12814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['uname3', 'pass3']" ]
+      } ],
+      "uid" : "8c3a048d6e246e7cf68cb0d725fa96cf"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

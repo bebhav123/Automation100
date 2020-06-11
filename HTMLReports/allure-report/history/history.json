@@ -1,0 +1,195 @@
+{
+  "f7571621fc2ff5f90e064db2cb65f86f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aceff700520df680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827910197,
+        "stop" : 1591827946653,
+        "duration" : 36456
+      }
+    } ]
+  },
+  "e61b360c8849b54f6586c2cd66b7b9d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8a6fe2bcc99fb18",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=83.0.4103.97)",
+      "time" : {
+        "start" : 1591827865170,
+        "stop" : 1591827884909,
+        "duration" : 19739
+      }
+    } ]
+  },
+  "3c39c93cd4fda97c8bc65782291e05be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3b974c3f66bac54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827698945,
+        "stop" : 1591827713044,
+        "duration" : 14099
+      }
+    } ]
+  },
+  "a218f389d08abebbf10a44b9221e69da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b924d66ad2387353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827713060,
+        "stop" : 1591827727211,
+        "duration" : 14151
+      }
+    } ]
+  },
+  "a35adcaee1cb7968e1641ce096d037e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ca244430546d6a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827898144,
+        "stop" : 1591827910182,
+        "duration" : 12038
+      }
+    } ]
+  },
+  "db0be8b3f97038b3f26170216eaff2c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4bf0789692dbea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827741405,
+        "stop" : 1591827753634,
+        "duration" : 12229
+      }
+    } ]
+  },
+  "0e612f6fa5b1ba3188f0083e6926a291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d7134c5f2c7eb65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827727227,
+        "stop" : 1591827741389,
+        "duration" : 14162
+      }
+    } ]
+  },
+  "e37b954c17d6d2d2f583add45f15ce1a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84bd8faa3af5edd8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=83.0.4103.97)",
+      "time" : {
+        "start" : 1591827885133,
+        "stop" : 1591827897947,
+        "duration" : 12814
+      }
+    } ]
+  },
+  "d911d5f66b6cd9158cf2bb512f2163af" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85a74af6f9fab767",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591827753650,
+        "stop" : 1591827770533,
+        "duration" : 16883
+      }
+    } ]
+  },
+  "0c95e6eaddc09c7b1e5164b4dee05d78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a563197b8e114a2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)",
+      "time" : {
+        "start" : 1591827770549,
+        "stop" : 1591827859936,
+        "duration" : 89387
+      }
+    } ]
+  }
+}

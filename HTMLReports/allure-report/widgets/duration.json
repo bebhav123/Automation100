@@ -1,0 +1,101 @@
+[ {
+  "uid" : "4d7134c5f2c7eb65",
+  "name" : "test_validate_registration[data0]",
+  "time" : {
+    "start" : 1591827727227,
+    "stop" : 1591827741389,
+    "duration" : 14162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4bf0789692dbea3",
+  "name" : "test_validate_registration[data1]",
+  "time" : {
+    "start" : 1591827741405,
+    "stop" : 1591827753634,
+    "duration" : 12229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ca244430546d6a4",
+  "name" : "test_validate_registration[data3]",
+  "time" : {
+    "start" : 1591827898144,
+    "stop" : 1591827910182,
+    "duration" : 12038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aceff700520df680",
+  "name" : "test_validate_registration[data4]",
+  "time" : {
+    "start" : 1591827910197,
+    "stop" : 1591827946653,
+    "duration" : 36456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84bd8faa3af5edd8",
+  "name" : "test_validate_registration[data2]",
+  "time" : {
+    "start" : 1591827885133,
+    "stop" : 1591827897947,
+    "duration" : 12814
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b924d66ad2387353",
+  "name" : "test_enter_password",
+  "time" : {
+    "start" : 1591827713060,
+    "stop" : 1591827727211,
+    "duration" : 14151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a563197b8e114a2",
+  "name" : "test_validate_registration[data0]",
+  "time" : {
+    "start" : 1591827770549,
+    "stop" : 1591827859936,
+    "duration" : 89387
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f8a6fe2bcc99fb18",
+  "name" : "test_validate_registration[data1]",
+  "time" : {
+    "start" : 1591827865170,
+    "stop" : 1591827884909,
+    "duration" : 19739
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c3b974c3f66bac54",
+  "name" : "test_validate_registration",
+  "time" : {
+    "start" : 1591827698945,
+    "stop" : 1591827713044,
+    "duration" : 14099
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85a74af6f9fab767",
+  "name" : "test_validate_registration[data2]",
+  "time" : {
+    "start" : 1591827753650,
+    "stop" : 1591827770533,
+    "duration" : 16883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
